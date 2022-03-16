@@ -26,6 +26,8 @@ My name is [Samuel][linkedin], I'm a 21 years old student, programmer and future
 
 <br />
 <br />
+<br />
+<br />
 
 ---
 ##### Tools:
@@ -44,6 +46,8 @@ My name is [Samuel][linkedin], I'm a 21 years old student, programmer and future
 
 
 
+<br />
+<br />
 <br />
 <br />
 
