@@ -28,8 +28,10 @@ My name is [Samuel][linkedin], I'm a 21 years old student, programmer and future
 <br />
 <br />
 <br />
+<br />
 
 ---
+
 ##### Tools:
 <img align="left" title="VisualStudio" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" title="InteliJ" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
@@ -44,8 +46,7 @@ My name is [Samuel][linkedin], I'm a 21 years old student, programmer and future
 <img align="left" title="BitBucket" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
 
 
-
-
+<br />
 <br />
 <br />
 <br />
