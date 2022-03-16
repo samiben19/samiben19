@@ -24,6 +24,11 @@ My name is [Samuel][linkedin], I'm a 21 years old student, programmer and future
 <img align="left" title="SQLServer" width="48px" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" />
 <img align="left" title="PostgreSQL" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
+<br />
+<br />
+<br />
+<br />
+
 ##### Tools:
 <img align="left" title="VisualStudio" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" title="InteliJ" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
@@ -37,6 +42,10 @@ My name is [Samuel][linkedin], I'm a 21 years old student, programmer and future
 <img align="left" title="GitHub" width="48px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" />
 <img align="left" title="BitBucket" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
 
+<br />
+<br />
+<br />
+<br />
 
 ## 3. <ins>Contact</ins>
 <a href="https://www.linkedin.com/in/samuel-sarkozi-744983234/"><img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
