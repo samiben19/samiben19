@@ -36,6 +36,7 @@ My name is [Samuel][linkedin], I'm a 21 years old student, programmer and future
 <img align="left" title="InteliJ" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <img align="left" title="PyCharm" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 <img align="left" title="WebStorm" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
+<img align="left" title="QT" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
 <img align="left" title="Putty" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
 <img align="left" title="Photoshop" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" title="Terminal" width="48px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/terminal-light.svg#gh-light-mode-only" />
