@@ -19,10 +19,12 @@ My name is [Samuel][linkedin], I'm a 21 years old student, programmer and future
 <img align="left" title="C#" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" title="Java" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" title="Python" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img aling="left" title="Assembly" width="48px" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610" />
 <img align="left" title="HTML" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" title="CSS" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" title="SQLServer" width="48px" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" />
 <img align="left" title="PostgreSQL" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
 
 <br />
 <br />
