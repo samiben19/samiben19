@@ -2,12 +2,14 @@
 
 ## 1. <ins> About </ins>
 
-My name is [Samuel][linkedin], I'm a 21 years old student, programmer and future developer !!
+My name is [Samuel][linkedin] (usually called Sam) and I'm a 22 years old junior developer !!
 #### Passions:
 - movies (especially horror👻)
 - [animes][anime]
-- [gaming][steam] (story games)
+- [gaming][steam] (story games are my favorites)
+- PC building
 - traveling
+- hiking
 #### Favorite season: winter ❄
 
 
