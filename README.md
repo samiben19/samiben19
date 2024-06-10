@@ -5,7 +5,7 @@
 My name is [Samuel][linkedin] (usually called Sam) and I'm a 23 years old junior developer !!
 #### Passions:
 - Traveling & hiking
-- [gaming][steam]
+- [Gaming][steam]
 - Building Lego Technic & PCs
 - Watching movies
 - Photography
