@@ -2,14 +2,14 @@
 
 ## 1. <ins> About </ins>
 
-My name is [Samuel][linkedin] (usually called Sam) and I'm a 22 years old junior developer !!
+My name is [Samuel][linkedin] (usually called Sam) and I'm a 23 years old junior developer !!
 #### Passions:
-- movies (especially horror👻)
-- [animes][anime]
-- [gaming][steam] (story games are my favorites)
-- PC building
-- traveling
-- hiking
+- Traveling & hiking
+- [gaming][steam]
+- Building Lego Technic & PCs
+- Watching movies
+- Photography
+- Sports
 #### Favorite season: winter ❄
 
 
@@ -53,14 +53,13 @@ My name is [Samuel][linkedin] (usually called Sam) and I'm a 22 years old junior
 <br />
 
 ## 3. <ins>Contact</ins>
-<a href="https://www.linkedin.com/in/samuel-sarkozi-744983234/"><img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://www.linkedin.com/in/samuel-sarkozi/"><img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://www.facebook.com/sami.sarkozi19/"><img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
 
 
 
 
-[linkedin]: https://www.linkedin.com/in/samuel-sarkozi-744983234/
-[anime]: https://myanimelist.net/profile/DeltaXD
+[linkedin]: https://www.linkedin.com/in/samuel-sarkozi/
 [steam]: https://steamcommunity.com/id/Delta_GamerXD
 
 <!---
